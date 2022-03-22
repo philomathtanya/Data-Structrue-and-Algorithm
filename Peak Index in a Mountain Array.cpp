@@ -11,7 +11,7 @@ public:
               continue;
            }
            else
-           {
+           {//loop
              g=i;
                             break;
            }
